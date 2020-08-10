@@ -40,7 +40,6 @@ will help attack the other problematic figure, the 80 million.
 * Per capita, Lao is the most heavily bombed country in history. One quarter of villages
   and 83% of provinces suffer from UXO contamination.<sup>[4](#footnote4)</sup>
 
-<a id="background_"></a>
 ---
 #### Background
 * <a name="footnote1"><sup>1</sup> [Ending the threat of UXO in Laos](http://copelaos.org/what-is-happening/unexploded-ordnance/ending-the-threat-of-cluster-bombs-and-uxo/) from the [Cope Center](http://copelaos.org/).
@@ -53,12 +52,10 @@ will help attack the other problematic figure, the 80 million.
 * [Bombing Missions of the Vietnam War](https://www.esri.com/en-us/maps-we-love/gallery/vietnam-bombing) from [esri](https://www.esri.com/en-us/home):
   * direct link to the [map](https://webapps-cdn.esri.com/CDN/page-templates/products/map-cookbook/vietnam.html)
 
-<a id="historical_"></a>
 ---
 #### Additional historical information
 * [CIA Air Operations in Laos, 1955-1974](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter99-00/art7.html?fbclid=IwAR1sADPMRS8dfel-x3TzpOdp0Ixn2oor5vDnTIlj_RedbcbHqJRZTmvYz4s)
 
-<a id="organizations_"></a>
 ---
 #### Organizations
 
@@ -68,23 +65,20 @@ will help attack the other problematic figure, the 80 million.
   * The [UXO Center](https://www.luangprabang-laos.com/Visit-UXO-Laos-center) in
     Luang Prabang
 
-<a id="data_"></a>
 ---
 #### Data
 
-<a id="research_"></a>
 ---
 #### Potentially relevant research
 
 * [Crater detection from commercial satellite imagery to estimate unexploded ordnance in Cambodian agricultural land](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229826#sec003)
 * [Research project: Machine Learning for Optimal Unexploded Ordnance Mitigation](https://www.southampton.ac.uk/oes/research/projects/machine-learning.page)
-* [Learning Machine Identification of Ferromagnetic UXO Using Magnetometry](https://www.researchgate.net/publication/273501531_Learning_Machine_Identification_of_Ferromagnetic_UXO_Using_Magnetometry) ([local pdf](lit/LearningMachineId.pdf))
+* [Learning Machine Identification of Ferromagnetic UXO Using Magnetometry](https://www.researchgate.net/publication/273501531_Learning_Machine_Identification_of_Ferromagnetic_UXO_Using_Magnetometry) ([local pdf](lit/LearningMachineID.pdf))
 * [Comparison of supervised and unsupervised machine learning techniques for UXO classification using EMI data](https://ui.adsabs.harvard.edu/abs/2011SPIE.8017E..06B/abstract)
 * [GPR Signal Characterization for Automated Landmine and UXO Detection Based on Machine Learning Techniques](https://www.mdpi.com/2072-4292/6/10/9729)
 * [Machine Learning Approach for Target Selection and Threat Classification of Wide Area Survey Data](https://www.serdp-estcp.org/Program-Areas/Munitions-Response/Land/Modeling-and-Signal-Processing/MR-1570)
 * [Machine learning as supporting method for UXO mapping and detection](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-22594.html?pdf) (abstract)
 
-<a id="solutions_"></a>
 ---
 #### Current information surrounding demining in Laos
 
@@ -108,8 +102,6 @@ at [Mine Action Review](http://www.mineactionreview.org):
   and Cambodia; while Cambodia is the third *worst hit* country under *mines*.
 * Mine Action Review's [2018 report](http://www.mineactionreview.org/assets/downloads/Clearing_Cluster_Munition_Remnants_2018_Lao_PDR.pdf) and [2019 report](http://www.mineactionreview.org/assets/downloads/Lao_PDR_Clearing_Cluster_Munition_Remnants_2019-62-77.pdf).
 
-<a id="references_"></a>
-####
 ---
 #### Additional footnotes
 
