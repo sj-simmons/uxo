@@ -64,9 +64,8 @@ will help attack the other problematic figure, the 80 million.
   Program (centered in Vientiane)
   * The [UXO Center](https://www.luangprabang-laos.com/Visit-UXO-Laos-center) in
     Luang Prabang
-
----
-#### Data
+* [Open Development Laos](https://laos.opendevelopmentmekong.net/)
+  * [SGD 18](https://laos.opendevelopmentmekong.net/topics/sdg-18-lives-safe-from-uxo)
 
 ---
 #### Potentially relevant research
