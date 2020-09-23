@@ -1,14 +1,12 @@
 <a id="top"></a>
-<p align="right"> <a href="https://sj-simmons.github.io/dl">The DL@DU Project</a> (<a href="https://www.github.com/sj-simmons/deep-learning#top">repo</a>) </p>
+<p align="right"> <a href="https://sj-simmons.github.io/dl">The DL@DU Project</a>  </p>
 
-###  UXO in Laos
-
-UXO stands for unexploded ordinance.
-
+# UXO in Laos
 <p align="center">
   <img width="500" src="images/IMG_3383.jpg">
 </p>
 
+UXO stands for unexploded ordinance.
 The map above shows bombing patterns in Vietnam spilling westward into Laos and
 Cambodia. During the latter half of American involvement in war, when sorties
 increasing originated in northern Thailand, vast tonnages of ordinance wound up
@@ -40,8 +38,8 @@ will help attack the other problematic figure, the 80 million.
 * Per capita, Lao is the most heavily bombed country in history. One quarter of villages
   and 83% of provinces suffer from UXO contamination.<sup>[4](#footnote4)</sup>
 
----
-#### Background
+## Background
+
 * <a name="footnote1"><sup>1</sup> [Ending the threat of UXO in Laos](http://copelaos.org/what-is-happening/unexploded-ordnance/ending-the-threat-of-cluster-bombs-and-uxo/) from the [Cope Center](http://copelaos.org/).
 * From [Legacies of War](http://legaciesofwar.org/)
   * [Secret war on Laos](http://legaciesofwar.org/about-laos/secret-war-laos/)
@@ -52,12 +50,12 @@ will help attack the other problematic figure, the 80 million.
 * [Bombing Missions of the Vietnam War](https://www.esri.com/en-us/maps-we-love/gallery/vietnam-bombing) from [esri](https://www.esri.com/en-us/home):
   * direct link to the [map](https://webapps-cdn.esri.com/CDN/page-templates/products/map-cookbook/vietnam.html)
 
----
-#### Additional historical information
+## Additional historical information
+
+* [Bombing Missions of the Vietnam War](https://storymaps.arcgis.com/stories/2eae918ca40a4bd7a55390bba4735cdb)
 * [CIA Air Operations in Laos, 1955-1974](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter99-00/art7.html?fbclid=IwAR1sADPMRS8dfel-x3TzpOdp0Ixn2oor5vDnTIlj_RedbcbHqJRZTmvYz4s)
 
----
-#### Organizations
+## Organizations
 
 * [MAG](https://www.maginternational.org/what-we-do/where-we-work/laos/)
 * [UXO Laos](https://www.uxolao.org/) the Lao National Unexploded Ordinance
@@ -67,8 +65,7 @@ will help attack the other problematic figure, the 80 million.
 * [Open Development Laos](https://laos.opendevelopmentmekong.net/)
   * [SGD 18](https://laos.opendevelopmentmekong.net/topics/sdg-18-lives-safe-from-uxo)
 
----
-#### Potentially relevant research
+## Potentially relevant research
 
 * [Crater detection from commercial satellite imagery to estimate unexploded ordnance in Cambodian agricultural land](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229826#sec003)
 * [Research project: Machine Learning for Optimal Unexploded Ordnance Mitigation](https://www.southampton.ac.uk/oes/research/projects/machine-learning.page)
@@ -78,8 +75,17 @@ will help attack the other problematic figure, the 80 million.
 * [Machine Learning Approach for Target Selection and Threat Classification of Wide Area Survey Data](https://www.serdp-estcp.org/Program-Areas/Munitions-Response/Land/Modeling-and-Signal-Processing/MR-1570)
 * [Machine learning as supporting method for UXO mapping and detection](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-22594.html?pdf) (abstract)
 
----
-#### Current information surrounding demining in Laos
+## Potential tools/data
+* Satellite/Aerial imagery
+  * https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9
+    * e.g., scroll down to the last image [here](https://storymaps.arcgis.com/stories/2eae918ca40a4bd7a55390bba4735cdb)
+  * Lao PDR [National Geographic Department](http://www.ngd.la/?page_id=414&lang=en)
+* More potential sources
+  * 'free' [search](https://www.google.com/search?q=free+satellite+imagery&oq=free+satellite+imagery&aqs=chrome..69i57j0l7.9152j0j7&sourceid=chrome&ie=UTF-8)
+  * free [sources](https://eos.com/blog/7-top-free-satellite-imagery-sources-in-2019/)
+  * more free [sources](https://www.skywatch.com/blog/free-sources-of-satellite-data)
+
+## Current information surrounding demining in Laos
 
 According to the Laotian Times:<sup>[5](#footnote5)</sup>
 
@@ -101,8 +107,7 @@ at [Mine Action Review](http://www.mineactionreview.org):
   and Cambodia; while Cambodia is the third *worst hit* country under *mines*.
 * Mine Action Review's [2018 report](http://www.mineactionreview.org/assets/downloads/Clearing_Cluster_Munition_Remnants_2018_Lao_PDR.pdf) and [2019 report](http://www.mineactionreview.org/assets/downloads/Lao_PDR_Clearing_Cluster_Munition_Remnants_2019-62-77.pdf).
 
----
-#### Additional footnotes
+## Additional footnotes
 
 <a name="footnote3"><sup>3</sup></a> [National Regulatory Authority for UXO/Mine Action Sector in Lao PDR](http://www.nra.gov.la/resources.html)  
 <a name="footnote4"><sup>4</sup></a> [2018 report (English)](http://www.nra.gov.la/resources/Annual%20Reports/Annual%20Report%20English/UXO%20Sector%20Annual%20Report%202018_English.pdf) from the National Regulatory Authority  
@@ -111,4 +116,5 @@ at [Mine Action Review](http://www.mineactionreview.org):
 <a name="footnote7"><sup>7</sup></a> [UXOLaos presentation](https://2018workshop.aseanmineaction.org/presentations/08-1_Wanthong-Khamdala_Lao-PDR_Land-Release.pdf) (Nov., 2018) ([local](lit/UXOLaosPresentation.pdf))
 
 
+<p align="right"> <a href="https://www.github.com/sj-simmons/uxo#top">top</a> </p>
 
