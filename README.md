@@ -84,6 +84,8 @@ will help attack the other problematic figure, the 80 million.
   * 'free' [search](https://www.google.com/search?q=free+satellite+imagery&oq=free+satellite+imagery&aqs=chrome..69i57j0l7.9152j0j7&sourceid=chrome&ie=UTF-8)
   * free [sources](https://eos.com/blog/7-top-free-satellite-imagery-sources-in-2019/)
   * more free [sources](https://www.skywatch.com/blog/free-sources-of-satellite-data)
+* Other resources
+  * [about map coords](https://engineering.kablamo.com.au/posts/2020/falsehoods-about-map-coordinates)
 
 ## Current information surrounding demining in Laos
 
